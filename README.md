@@ -19,7 +19,7 @@ Execute the code in Processing. When the render is complete, it will save the fr
 It is **very** easy to customize this renderer. Follow these steps to do so:
 
 ### Changing the render size
-To change the render size, just change the ´size(x, y)´ parameters in ´setup()´
+To change the render size, just change the `size(x, y)` parameters in `setup()`
 ```
 void setup() {
   size(1280, 720); //Creates a render of size 1280x720
